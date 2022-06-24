@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod hello betty
+#1/bin/bash
+chmod betty hello
